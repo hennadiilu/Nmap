@@ -1,0 +1,8 @@
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\bin\Debug\Testing.Common.dll
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\bin\Debug\Testing.Common.pdb
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\bin\Debug\Nmap.dll
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\bin\Debug\Nmap.pdb
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\bin\Debug\Nmap.xml
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\obj\Debug\Testing.Common.csprojResolveAssemblyReference.cache
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\obj\Debug\Testing.Common.dll
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Testing\Testing.Common\obj\Debug\Testing.Common.pdb

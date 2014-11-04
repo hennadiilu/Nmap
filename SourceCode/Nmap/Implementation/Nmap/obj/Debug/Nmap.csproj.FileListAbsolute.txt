@@ -1,0 +1,8 @@
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\obj\Debug\Nmap.csprojResolveAssemblyReference.cache
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\obj\Debug\Nmap.csproj.GenerateResource.Cache
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\obj\Debug\Nmap.Properties.Resources.resources
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\bin\Debug\Nmap.xml
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\bin\Debug\Nmap.dll
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\bin\Debug\Nmap.pdb
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\obj\Debug\Nmap.dll
+D:\Development\Projects\Nmap\Repository\SourceCode\Nmap\Implementation\Nmap\obj\Debug\Nmap.pdb

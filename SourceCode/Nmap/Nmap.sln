@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implementation", "Implementation", "{AAC98042-4B57-4441-AE03-12DA265D6C90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{2AEAC5C2-A633-4AE0-BE83-F75D10A3B923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nmap", "Implementation\Nmap\Nmap.csproj", "{C0810976-13FB-4497-9D24-3D947E02EAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nmap.Testing", "Testing\Nmap.Testing\Nmap.Testing.csproj", "{340E6181-FFB7-4CD1-ACC2-B03129D7F276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Common", "Testing\Testing.Common\Testing.Common.csproj", "{319D598B-1926-473E-BCBC-9E91B159E42D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0810976-13FB-4497-9D24-3D947E02EAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0810976-13FB-4497-9D24-3D947E02EAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0810976-13FB-4497-9D24-3D947E02EAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0810976-13FB-4497-9D24-3D947E02EAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340E6181-FFB7-4CD1-ACC2-B03129D7F276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340E6181-FFB7-4CD1-ACC2-B03129D7F276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340E6181-FFB7-4CD1-ACC2-B03129D7F276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319D598B-1926-473E-BCBC-9E91B159E42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319D598B-1926-473E-BCBC-9E91B159E42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319D598B-1926-473E-BCBC-9E91B159E42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0810976-13FB-4497-9D24-3D947E02EAEB} = {AAC98042-4B57-4441-AE03-12DA265D6C90}
+		{340E6181-FFB7-4CD1-ACC2-B03129D7F276} = {2AEAC5C2-A633-4AE0-BE83-F75D10A3B923}
+		{319D598B-1926-473E-BCBC-9E91B159E42D} = {2AEAC5C2-A633-4AE0-BE83-F75D10A3B923}
+	EndGlobalSection
+EndGlobal
